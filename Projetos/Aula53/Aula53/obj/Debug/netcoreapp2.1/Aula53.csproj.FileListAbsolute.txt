@@ -1,0 +1,11 @@
+C:\temp\Projetos\Aula53\Aula53\bin\Debug\netcoreapp2.1\Aula53.deps.json
+C:\temp\Projetos\Aula53\Aula53\bin\Debug\netcoreapp2.1\Aula53.runtimeconfig.json
+C:\temp\Projetos\Aula53\Aula53\bin\Debug\netcoreapp2.1\Aula53.runtimeconfig.dev.json
+C:\temp\Projetos\Aula53\Aula53\bin\Debug\netcoreapp2.1\Aula53.dll
+C:\temp\Projetos\Aula53\Aula53\bin\Debug\netcoreapp2.1\Aula53.pdb
+C:\temp\Projetos\Aula53\Aula53\obj\Debug\netcoreapp2.1\Aula53.csprojAssemblyReference.cache
+C:\temp\Projetos\Aula53\Aula53\obj\Debug\netcoreapp2.1\Aula53.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\Aula53\Aula53\obj\Debug\netcoreapp2.1\Aula53.AssemblyInfoInputs.cache
+C:\temp\Projetos\Aula53\Aula53\obj\Debug\netcoreapp2.1\Aula53.AssemblyInfo.cs
+C:\temp\Projetos\Aula53\Aula53\obj\Debug\netcoreapp2.1\Aula53.dll
+C:\temp\Projetos\Aula53\Aula53\obj\Debug\netcoreapp2.1\Aula53.pdb

@@ -1,0 +1,10 @@
+C:\temp\Projetos\ExAula23\ExAula23\bin\Debug\netcoreapp2.1\ExAula23.deps.json
+C:\temp\Projetos\ExAula23\ExAula23\bin\Debug\netcoreapp2.1\ExAula23.runtimeconfig.json
+C:\temp\Projetos\ExAula23\ExAula23\bin\Debug\netcoreapp2.1\ExAula23.runtimeconfig.dev.json
+C:\temp\Projetos\ExAula23\ExAula23\bin\Debug\netcoreapp2.1\ExAula23.dll
+C:\temp\Projetos\ExAula23\ExAula23\bin\Debug\netcoreapp2.1\ExAula23.pdb
+C:\temp\Projetos\ExAula23\ExAula23\obj\Debug\netcoreapp2.1\ExAula23.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\ExAula23\ExAula23\obj\Debug\netcoreapp2.1\ExAula23.AssemblyInfoInputs.cache
+C:\temp\Projetos\ExAula23\ExAula23\obj\Debug\netcoreapp2.1\ExAula23.AssemblyInfo.cs
+C:\temp\Projetos\ExAula23\ExAula23\obj\Debug\netcoreapp2.1\ExAula23.dll
+C:\temp\Projetos\ExAula23\ExAula23\obj\Debug\netcoreapp2.1\ExAula23.pdb

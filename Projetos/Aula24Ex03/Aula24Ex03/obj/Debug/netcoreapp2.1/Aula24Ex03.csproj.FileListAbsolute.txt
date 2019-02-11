@@ -1,0 +1,11 @@
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\bin\Debug\netcoreapp2.1\Aula24Ex03.deps.json
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\bin\Debug\netcoreapp2.1\Aula24Ex03.runtimeconfig.json
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\bin\Debug\netcoreapp2.1\Aula24Ex03.runtimeconfig.dev.json
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\bin\Debug\netcoreapp2.1\Aula24Ex03.dll
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\bin\Debug\netcoreapp2.1\Aula24Ex03.pdb
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\obj\Debug\netcoreapp2.1\Aula24Ex03.csprojAssemblyReference.cache
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\obj\Debug\netcoreapp2.1\Aula24Ex03.csproj.CoreCompileInputs.cache
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\obj\Debug\netcoreapp2.1\Aula24Ex03.AssemblyInfoInputs.cache
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\obj\Debug\netcoreapp2.1\Aula24Ex03.AssemblyInfo.cs
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\obj\Debug\netcoreapp2.1\Aula24Ex03.dll
+C:\Users\jpmo1\source\repos\Aula24Ex03\Aula24Ex03\obj\Debug\netcoreapp2.1\Aula24Ex03.pdb

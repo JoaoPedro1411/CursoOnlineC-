@@ -1,0 +1,11 @@
+C:\temp\Projetos\Fatoral\Fatoral\bin\Debug\netcoreapp2.1\Fatoral.deps.json
+C:\temp\Projetos\Fatoral\Fatoral\bin\Debug\netcoreapp2.1\Fatoral.runtimeconfig.json
+C:\temp\Projetos\Fatoral\Fatoral\bin\Debug\netcoreapp2.1\Fatoral.runtimeconfig.dev.json
+C:\temp\Projetos\Fatoral\Fatoral\bin\Debug\netcoreapp2.1\Fatoral.dll
+C:\temp\Projetos\Fatoral\Fatoral\bin\Debug\netcoreapp2.1\Fatoral.pdb
+C:\temp\Projetos\Fatoral\Fatoral\obj\Debug\netcoreapp2.1\Fatoral.csprojAssemblyReference.cache
+C:\temp\Projetos\Fatoral\Fatoral\obj\Debug\netcoreapp2.1\Fatoral.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\Fatoral\Fatoral\obj\Debug\netcoreapp2.1\Fatoral.AssemblyInfoInputs.cache
+C:\temp\Projetos\Fatoral\Fatoral\obj\Debug\netcoreapp2.1\Fatoral.AssemblyInfo.cs
+C:\temp\Projetos\Fatoral\Fatoral\obj\Debug\netcoreapp2.1\Fatoral.dll
+C:\temp\Projetos\Fatoral\Fatoral\obj\Debug\netcoreapp2.1\Fatoral.pdb

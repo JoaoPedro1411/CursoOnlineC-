@@ -1,0 +1,11 @@
+C:\temp\Projetos\Aula46E47\Aula46E47\obj\Debug\netcoreapp2.1\Aula46E47.csprojAssemblyReference.cache
+C:\temp\Projetos\Aula46E47\Aula46E47\obj\Debug\netcoreapp2.1\Aula46E47.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\Aula46E47\Aula46E47\obj\Debug\netcoreapp2.1\Aula46E47.AssemblyInfoInputs.cache
+C:\temp\Projetos\Aula46E47\Aula46E47\obj\Debug\netcoreapp2.1\Aula46E47.AssemblyInfo.cs
+C:\temp\Projetos\Aula46E47\Aula46E47\bin\Debug\netcoreapp2.1\Aula46E47.deps.json
+C:\temp\Projetos\Aula46E47\Aula46E47\bin\Debug\netcoreapp2.1\Aula46E47.runtimeconfig.json
+C:\temp\Projetos\Aula46E47\Aula46E47\bin\Debug\netcoreapp2.1\Aula46E47.runtimeconfig.dev.json
+C:\temp\Projetos\Aula46E47\Aula46E47\bin\Debug\netcoreapp2.1\Aula46E47.dll
+C:\temp\Projetos\Aula46E47\Aula46E47\bin\Debug\netcoreapp2.1\Aula46E47.pdb
+C:\temp\Projetos\Aula46E47\Aula46E47\obj\Debug\netcoreapp2.1\Aula46E47.dll
+C:\temp\Projetos\Aula46E47\Aula46E47\obj\Debug\netcoreapp2.1\Aula46E47.pdb

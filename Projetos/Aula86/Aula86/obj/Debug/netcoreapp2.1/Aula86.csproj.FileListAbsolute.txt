@@ -1,0 +1,10 @@
+C:\temp\Projetos\Aula86\Aula86\bin\Debug\netcoreapp2.1\Aula86.deps.json
+C:\temp\Projetos\Aula86\Aula86\bin\Debug\netcoreapp2.1\Aula86.runtimeconfig.json
+C:\temp\Projetos\Aula86\Aula86\bin\Debug\netcoreapp2.1\Aula86.runtimeconfig.dev.json
+C:\temp\Projetos\Aula86\Aula86\bin\Debug\netcoreapp2.1\Aula86.dll
+C:\temp\Projetos\Aula86\Aula86\bin\Debug\netcoreapp2.1\Aula86.pdb
+C:\temp\Projetos\Aula86\Aula86\obj\Debug\netcoreapp2.1\Aula86.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\Aula86\Aula86\obj\Debug\netcoreapp2.1\Aula86.AssemblyInfoInputs.cache
+C:\temp\Projetos\Aula86\Aula86\obj\Debug\netcoreapp2.1\Aula86.AssemblyInfo.cs
+C:\temp\Projetos\Aula86\Aula86\obj\Debug\netcoreapp2.1\Aula86.dll
+C:\temp\Projetos\Aula86\Aula86\obj\Debug\netcoreapp2.1\Aula86.pdb

@@ -1,0 +1,11 @@
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\bin\Debug\netcoreapp2.1\Aula118E119E120.deps.json
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\bin\Debug\netcoreapp2.1\Aula118E119E120.runtimeconfig.json
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\bin\Debug\netcoreapp2.1\Aula118E119E120.runtimeconfig.dev.json
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\bin\Debug\netcoreapp2.1\Aula118E119E120.dll
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\bin\Debug\netcoreapp2.1\Aula118E119E120.pdb
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\obj\Debug\netcoreapp2.1\Aula118E119E120.csprojAssemblyReference.cache
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\obj\Debug\netcoreapp2.1\Aula118E119E120.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\obj\Debug\netcoreapp2.1\Aula118E119E120.AssemblyInfoInputs.cache
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\obj\Debug\netcoreapp2.1\Aula118E119E120.AssemblyInfo.cs
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\obj\Debug\netcoreapp2.1\Aula118E119E120.dll
+C:\temp\Projetos\Aula118E119E120\Aula118E119E120\obj\Debug\netcoreapp2.1\Aula118E119E120.pdb
