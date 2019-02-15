@@ -1,0 +1,3 @@
+[submodule "Xadrez/Xadrez/xadrez-console"]
+	path = Xadrez/Xadrez/xadrez-console
+	url = https://github.com/JoaoPedro1411/CursoOnlineC-.git
