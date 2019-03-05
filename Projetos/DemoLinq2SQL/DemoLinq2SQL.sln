@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLinq2SQL", "DemoLinq2SQL\DemoLinq2SQL.csproj", "{F8457547-B47B-4035-8B17-F445EA9623A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8457547-B47B-4035-8B17-F445EA9623A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8457547-B47B-4035-8B17-F445EA9623A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8457547-B47B-4035-8B17-F445EA9623A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8457547-B47B-4035-8B17-F445EA9623A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCF99337-8004-4F7C-8619-12EA0CC22019}
+	EndGlobalSection
+EndGlobal
